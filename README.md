@@ -76,6 +76,9 @@ Open a pull request.
 Tests
 
 There are currently no unit tests for this CLI application, but testing functionality can be done manually through the interactive prompts.
+
+https://youtu.be/2ViMVIIi_Aw
+
 Questions
 
 If you have any questions, feel free to reach out:
