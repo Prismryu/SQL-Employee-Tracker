@@ -23,7 +23,7 @@ A command-line content management system (CMS) built with Node.js, PostgreSQL, a
 
  2.   Navigate into the project directory:
 
-cd sql-employee-tracker
+cd employee-tracker
 
 3. Install dependencies:
 
